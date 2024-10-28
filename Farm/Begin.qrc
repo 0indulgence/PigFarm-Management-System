@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/begin">
+        <file>Begin.jpg</file>
+        <file>Beginbutton.jpg</file>
+        <file>Begin_Run.gif</file>
+        <file>Begin_quit.gif</file>
+        <file>load.gif</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/farmpicture">
+        <file>Rightpigsty.png</file>
+        <file>Leftpigsty.png</file>
+        <file>farm_background.jpg</file>
+        <file>Pigsty.jpg</file>
+        <file>pigsty_plus.jpg</file>
+        <file>stack.jpg</file>
+        <file>chart.jpg</file>
+        <file>sell.gif</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>buy.gif</file>
+        <file>getSick.gif</file>
+        <file>pigsty_sick.jpg</file>
+        <file>over.jpg</file>
+        <file>in_pigsty.gif</file>
+        <file>text.jpg</file>
+        <file>music.wav</file>
+        <file>reject.gif</file>
+        <file>success.gif</file>
+    </qresource>
+</RCC>
